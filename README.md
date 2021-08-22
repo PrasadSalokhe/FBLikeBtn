@@ -29,3 +29,9 @@ For iOS-
 ```sh
 npx react-native run-ios
 ```
+
+---
+
+<img src='./demos/demo.gif' alt='' height=400 width=200/>
+
+---
